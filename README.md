@@ -2,6 +2,8 @@
 
 [https://github.com/KosyanMedia/Front-end_TP_test](https://github.com/KosyanMedia/Front-end_TP_test)
 
+**Ссылка на проект** - [tourmaline-croquembouche-35bc26.netlify.app](https://tourmaline-croquembouche-35bc26.netlify.app/)
+
 ## Описание
 
 Проект реализован на следующем стеке:
